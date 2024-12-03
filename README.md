@@ -2,11 +2,13 @@
 [![Actions Status](https://github.com/bebcor/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/bebcor/python-project-49/actions)
 <a href="https://codeclimate.com/github/bebcor/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/99d1b9997b0fdebf4996/maintainability" /></a>
 
-
+### Игра 'Проверка на четность'
 ## Для установки пакета используйте следующую команду:
+
 #pip install brain-games
 
 ## Чтобы запустить игру используйте следующую команду:
+
 #brain-even
 
 ## Когда вы запустите игру, вы увидите следующий вывод
@@ -15,3 +17,22 @@
 ## Для победы вам нужно три раза подярд угадать четное это число или нет
 
 ## Удачной игры!
+
+
+
+### Игра 'Калькулятор'
+## Для утсановки пакета используйте следующую команду:
+
+#pip install brain-games
+
+## Чтобы запустить игру используйте следующую команду
+
+#brain-calc
+
+# Когда вы запускаете игру, вы увидите следующий вывод
+#https://asciinema.org/a/qp2t6gaU6w6JpE97Q8KcAn66K
+
+## Для победы вам нужно три раза подряд угадать правильный ответ
+
+## Удачной игры!
+
