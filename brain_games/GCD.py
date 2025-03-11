@@ -39,4 +39,3 @@ def GCD_games():
             counter = 0
 
     print(f"Congratulations, {name}!")
-

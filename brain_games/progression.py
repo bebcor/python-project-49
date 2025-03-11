@@ -9,7 +9,6 @@ def calc_the_progression():
     progression_numbers = []
 
     current_value = random_first_element
-
     for i in range(10):
         progression_numbers.append(current_value)
         current_value += random_step
@@ -19,6 +18,7 @@ def calc_the_progression():
 
     progression_str = " ".join(map(str, progression_numbers))
     return progression_str, correct_answer
+
 
 def progression_game():
     print("Welcome to the Brain Games!")
@@ -42,5 +42,3 @@ def progression_game():
             counter = 0
 
     print(f"Congratulations, {name}!")
-
-
