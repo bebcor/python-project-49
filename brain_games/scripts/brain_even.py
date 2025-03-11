@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from brain_games.pairty import even
+from brain_games.parity import even
 
 
 def main():
