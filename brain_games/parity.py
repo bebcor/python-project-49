@@ -30,5 +30,6 @@ def even():
             print(f"'{user_answer}' is a wrong answer ;(. Correct answer was '{correct_answer}'.")
             print(f"Let's try again, {name}!")
             counter = 0
+            break
 
     print(f"Congratulations, {name}!")
