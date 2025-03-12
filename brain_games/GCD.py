@@ -2,6 +2,22 @@ import random
 import prompt
 
 
+def get_dividers(number):
+    return {i for i in range(1, number + 1) if number % i == 0}
+
+
+def find_gcd(number1, number2):
+    dividers1 = get_dividers(number1)
+    dividers2 = get_dividers(number2)
+    common_dividers = dividers1.intersection(dividers2)
+    return max(common_dividers)
+
+
+def ask_question(number1, number2):
+    print(f"Question: {number1} {number2}")
+    return int(input("Your answer: "))
+
+
 def GCD_games():
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
@@ -10,31 +26,20 @@ def GCD_games():
 
     counter = 0
 
-    while counter != 3:
-        random_number_one = random.randint(1, 10)
-        random_number_two = random.randint(1, 10)
-        print(f"Question: {random_number_one} {random_number_two}")
-
-        dividers_number_one = set()
-        dividers_number_two = set()
-
-        for i in range(1, random_number_one + 1):
-            if random_number_one % i == 0:
-                dividers_number_one.add(i)
-
-        for i in range(1, random_number_two + 1):
-            if random_number_two % i == 0:
-                dividers_number_two.add(i)
-
-        intersection = dividers_number_one.intersection(dividers_number_two)
-        correct_answer = max(intersection)
-        user_answer = int(input("Your answer: "))
+    while counter < 3:
+        number1 = random.randint(1, 10)
+        number2 = random.randint(1, 10)
+        correct_answer = find_gcd(number1, number2)
+        user_answer = ask_question(number1, number2)
 
         if user_answer == correct_answer:
             print("Correct!")
             counter += 1
         else:
-            print(f"'{user_answer}' is a wrong answer ;(. Correct answer was '{correct_answer}'.")
+            print(
+                f"'{user_answer}' is a wrong answer ;(. "
+                f"Correct answer was '{correct_answer}'."
+            )
             print(f"Let's try again, {name}!")
             return
 

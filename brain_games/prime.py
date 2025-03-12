@@ -23,8 +23,8 @@ def prime_games():
 
     counter = 0
     while counter != 3:
-        random_element, correct_answer = is_prime() 
-        print(f"Question: {random_element}") 
+        random_element, correct_answer = is_prime()
+        print(f"Question: {random_element}")
 
         user_answer = input("Your answer: ")
 
@@ -32,7 +32,10 @@ def prime_games():
             print("Correct!")
             counter += 1
         else:
-            print(f"'{user_answer}' is a wrong answer ;(. Correct answer was '{correct_answer}'.")
+            print(
+                f"'{user_answer}' is a wrong answer ;(. "
+                f"Correct answer was '{correct_answer}'."
+            )
             print(f"Let's try again, {name}!")
             return
 

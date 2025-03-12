@@ -14,7 +14,10 @@ def calculator_games():
         random_number_one = random.randint(0, 10)
         random_number_two = random.randint(0, 10)
         random_arithmetic_operation = random.choice("+-*")
-        print(f"Question: {random_number_one} {random_arithmetic_operation} {random_number_two}")
+        print(
+            f"Question: {random_number_one} "
+            f"{random_arithmetic_operation} {random_number_two}"
+        )
 
         if random_arithmetic_operation == "+":
             correct_answer = random_number_one + random_number_two
@@ -30,7 +33,10 @@ def calculator_games():
             counter += 1
 
         else:
-            print(f"'{user_answer}' is a wrong answer ;(. Correct answer was '{correct_answer}'.")
+            print(
+                f"'{user_answer}' is a wrong answer ;(. "
+                f"Correct answer was '{correct_answer}'."
+            )
             print(f"Let's try again, {name}!")
             return
 
