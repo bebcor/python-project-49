@@ -18,11 +18,11 @@ def even():
         print(f"Question: {random_number}")
         user_answer = input("Your answer: ")
 
-        if user_answer == "yes" and correct_answer = 'yes':
+        if user_answer == "yes" and correct_answer % 2 == 'yes':
             print("Correct!")
             counter += 1
 
-        elif user_answer == "no" and correct_answer = 'no':
+        elif user_answer == "no" and correct_answer == 'no':
             print("Correct!")
             counter += 1
 
