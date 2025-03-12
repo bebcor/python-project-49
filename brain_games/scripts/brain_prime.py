@@ -3,7 +3,7 @@ from brain_games.prime import prime_games
 
 
 def main():
-    prime_games
+    prime_games()
 
 
 if __name__ == "__main__":
