@@ -11,22 +11,22 @@ def even():
 
     while counter != 3:
         random_number = random.randint(0, 10)
+        if random_number % 2 == 0:
+            correct_answer = 'yes'
+        else:
+            correct_answer = 'no'
         print(f"Question: {random_number}")
         user_answer = input("Your answer: ")
 
-        if user_answer == "yes" and random_number % 2 == 0:
+        if user_answer == "yes" and correct_answer = 'yes':
             print("Correct!")
             counter += 1
 
-        elif user_answer == "no" and random_number % 2 != 0:
+        elif user_answer == "no" and correct_answer = 'no':
             print("Correct!")
             counter += 1
 
         else:
-            if random_number % 2 == 0:
-                correct_answer = 'yes'
-            else:
-                correct_answer = 'no'
             print(f"'{user_answer}' is a wrong answer ;(. Correct answer was '{correct_answer}'.")
             print(f"Let's try again, {name}!")
             counter = 0
