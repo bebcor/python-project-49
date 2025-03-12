@@ -28,7 +28,7 @@ def prime_games():
 
         user_answer = input("Your answer: ")
 
-        if user_answer.isdigit() and int(user_answer) == correct_answer:
+        if user_answer == correct_answer:
             print("Correct!")
             counter += 1
         else:
