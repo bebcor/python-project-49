@@ -29,7 +29,7 @@ def progression_games():
     counter = 0
     while counter != 3:
         progression_str, correct_answer = calc_the_progression()
-        print(progression_str)
+        print(f"Question: {progression_str}")
 
         user_answer = input("Your answer: ")
 
