@@ -34,6 +34,6 @@ def prime_games():
         else:
             print(f"'{user_answer}' is a wrong answer ;(. Correct answer was '{correct_answer}'.")
             print(f"Let's try again, {name}!")
-            counter = 0
+            return
 
     print(f"Congratulations, {name}!")
