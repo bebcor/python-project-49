@@ -20,7 +20,7 @@ def calc_the_progression():
     return progression_str, correct_answer
 
 
-def progression_game():
+def progression_games():
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f"Hello, {name}!")
