@@ -18,7 +18,7 @@ def even():
         print(f"Question: {random_number}")
         user_answer = input("Your answer: ")
 
-        if user_answer == "yes" and correct_answer % 2 == 'yes':
+        if user_answer == "yes" and correct_answer == 'yes':
             print("Correct!")
             counter += 1
 
@@ -29,7 +29,6 @@ def even():
         else:
             print(f"'{user_answer}' is a wrong answer ;(. Correct answer was '{correct_answer}'.")
             print(f"Let's try again, {name}!")
-            counter = 0
-            break
+            return
 
     print(f"Congratulations, {name}!")
