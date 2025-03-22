@@ -21,9 +21,9 @@ pip install brain-games
 Instructions
 To run the "parity check" mini game, use the following command:
 
-```bash
+
 brain-even
-```
+
 
 
 askinema games
@@ -40,9 +40,9 @@ Have a good game!
 Instructions
 To run the "calculator" mini game, use the following command:
 
-```bash
+
 brain-calc
-```
+
 
 askinema games
 https://asciinema.org/a/qp2t6gaU6w6JpE97Q8KcAn66K
@@ -60,9 +60,9 @@ Have a good game!
 Instructions
 To run the "GCD" mini game, use the following command:
 
-```bash
+
 brain-gcd
-```
+
 
 askinema games
 https://asciinema.org/a/b8shLwmi0F9zmIayXM2Hpnw31
@@ -77,9 +77,10 @@ Have a good game!
 
 Instructions
 To run the "progression" mini game, use the following command:
-```bash
+
+
 brain-progression
-```
+
 
 askinema games
 https://asciinema.org/a/1qvDGUqlTmDqNu8gawgTNlypE
@@ -98,9 +99,7 @@ Have a good game!
 Instructions
 To run the "prime" mini game, use the following command:
 
-```bash
 brain-prime
-```
 
 askinema games
 https://asciinema.org/a/AsN2zoK7rabmWOnzW2XaueJDU
