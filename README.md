@@ -6,8 +6,9 @@
 - [![Maintainability](https://api.codeclimate.com/v1/badges/99d1b9997b0fdebf4996/maintainability)](https://codeclimate.com/github/bebcor/python-project-49/maintainability)
 
 
-Description
-**Brain games** is a collection of mathematical mini games.
+##Description
+
+**Brian Games** is a collection of mathematical mini-games aimed at developing mental arithmetic and logic.
 
 
 ##Instructions
@@ -23,80 +24,88 @@ pip install brain-games
 
 ```bash
 brain-even
+```
+
 
 -askinema games
 	-https://asciinema.org/a/tcRnayXYCPZjpj9RiX6P2yN8G
 
-## Для победы вам нужно три раза подярд угадать четное это число или нет
 
-## Удачной игры!
+**To win you need to guess three times whether the number is even or not.**
 
-
-
-### Игра 'Калькулятор'
-## Для утсановки пакета используйте следующую команду:
-
-#pip install brain-games
-
-## Чтобы запустить игру используйте следующую команду
-
-#brain-calc
-
-# Когда вы запускаете игру, вы увидите следующий вывод
-#https://asciinema.org/a/qp2t6gaU6w6JpE97Q8KcAn66K
-
-## Для победы вам нужно три раза подряд угадать правильный ответ
-
-## Удачной игры!
+Have a good game!
 
 
 
-### Игра 'Наибольший общий делитель (GCD/НОД)'
-## Для утсановки пакета используйте следующую команду:
+2)Calculator
+-Instructions
+	-To run the "calculator" mini game, use the following command:
 
-#pip install brain-games
+```bash
+brain-calc
+```
 
-## Чтобы запустить игру используйте следующую команду
+-askinema games
+	-https://asciinema.org/a/qp2t6gaU6w6JpE97Q8KcAn66K
 
-#brain-gcd
+**To win, you need to calculate the correct answer three times in a row.**
 
-# Когда вы запускаете игру, вы увидите следующий вывод
-#https://asciinema.org/a/b8shLwmi0F9zmIayXM2Hpnw31
-
-## Для победы вам нужно три раза подряд угадать правильный ответ
-
-## Удачной игры!
-
+Have a good game!
 
 
-### Игра 'Потерянный элемент арифметической прогрессии'
-## Для утсановки пакета используйте следующую команду:
 
-#pip install brain-games
 
-## Чтобы запустить игру используйте следующую команду
 
-#brain-progression
+3)GCD
 
-# Когда вы запускаете игру, вы увидите следующий вывод
-#https://asciinema.org/a/1qvDGUqlTmDqNu8gawgTNlypE
+-Instructions
+	-To run the "GCD" mini game, use the following command:
 
-## Для победы вам нужно три раза подряд угадать правильный ответ
+```bash
+brain-gcd
+```
 
-## Удачной игры!
+-askinema games
+	-https://asciinema.org/a/b8shLwmi0F9zmIayXM2Hpnw31
 
-### Игра 'Простое ли число?'
-## Для установки пакета используйте следующую команду:
+**To win you need to calculate GCD correctly three times in a row**
 
-#pip install brain-games
+Have a good game!
 
-## Чтобы запустить игру используйте следующую команду:
 
-#brain-prime
 
-## Когда вы запустите игру, вы увидите следующий вывод
-# https://asciinema.org/a/AsN2zoK7rabmWOnzW2XaueJDU
+4)Progression 
 
-## Для победы вам нужно три раза подярд угадать простое ли это число или нет.
+-Instructions
+	-To run the "progression" mini game, use the following command:
+```bash
+brain-progression
+```
 
-## Удачной игры!
+-askinema games
+	-https://asciinema.org/a/1qvDGUqlTmDqNu8gawgTNlypE
+
+**To win, you need to find the missing member of the arithmetic progression three times in a row.**
+
+Have a good game!
+
+
+
+
+
+
+5)Is the number prime?
+
+-Instructions
+	-To run the "prime" mini game, use the following command:
+
+```bash
+brain-prime
+```
+
+-askinema games
+	-https://asciinema.org/a/AsN2zoK7rabmWOnzW2XaueJDU
+
+**To win you need to determine whether the number is prime or not three times in a row.**
+
+Have a good game!
