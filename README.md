@@ -12,9 +12,9 @@ Brian Games is a collection of mathematical mini-games aimed at developing menta
 
 ##Instructions
 To install the package, use the following command:
-```bash
+
 pip install brain-games
-```
+
 
 ##Mini Games
 1)Even
