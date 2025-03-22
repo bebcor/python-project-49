@@ -6,15 +6,15 @@
 - [![Maintainability](https://api.codeclimate.com/v1/badges/99d1b9997b0fdebf4996/maintainability)](https://codeclimate.com/github/bebcor/python-project-49/maintainability)
 
 
-##Description
-Brain games is a collection of mathematical mini games.
+Description
+**Brain games** is a collection of mathematical mini games.
 
 
 ##Instructions
 	-To install the package, use the following command:
 ```bash
 pip install brain-games
-
+```
 
 ##Mini Games
 1)Even
