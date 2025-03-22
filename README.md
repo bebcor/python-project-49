@@ -1,18 +1,31 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/bebcor/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/bebcor/python-project-49/actions)
-<a href="https://codeclimate.com/github/bebcor/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/99d1b9997b0fdebf4996/maintainability" /></a>
+#Brain games
 
-### Игра 'Проверка на четность'
-## Для установки пакета используйте следующую команду:
+##Code climat
+- [![Actions Status](https://github.com/bebcor/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/bebcor/python-project-49/actions)
+- <a href="https://codeclimate.com/github/bebcor/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/99d1b9997b0fdebf4996/maintainability" /></a>
+- [![Maintainability](https://api.codeclimate.com/v1/badges/99d1b9997b0fdebf4996/maintainability)](https://codeclimate.com/github/bebcor/python-project-49/maintainability)
 
-#pip install brain-games
 
-## Чтобы запустить игру используйте следующую команду:
+##Description
+Brain games is a collection of mathematical mini games.
 
-#brain-even
 
-## Когда вы запустите игру, вы увидите следующий вывод
-# https://asciinema.org/a/tcRnayXYCPZjpj9RiX6P2yN8G
+##Instructions
+	-To install the package, use the following command:
+```bash
+pip install brain-games
+
+
+##Mini Games
+1)Even
+-Instructions
+	-To run the "parity check" mini game, use the following command:
+
+```bash
+brain-even
+
+-askinema games
+	-https://asciinema.org/a/tcRnayXYCPZjpj9RiX6P2yN8G
 
 ## Для победы вам нужно три раза подярд угадать четное это число или нет
 
