@@ -25,9 +25,8 @@ To run the "parity check" mini game, use the following command:
 brain-even
 
 
-
 askinema games
-https://asciinema.org/a/tcRnayXYCPZjpj9RiX6P2yN8G
+
 
 
 To win you need to guess three times whether the number is even or not.
@@ -45,7 +44,7 @@ brain-calc
 
 
 askinema games
-https://asciinema.org/a/qp2t6gaU6w6JpE97Q8KcAn66K
+
 
 To win, you need to calculate the correct answer three times in a row.
 
@@ -65,7 +64,7 @@ brain-gcd
 
 
 askinema games
-https://asciinema.org/a/b8shLwmi0F9zmIayXM2Hpnw31
+
 
 To win you need to calculate GCD correctly three times in a row
 
@@ -83,7 +82,7 @@ brain-progression
 
 
 askinema games
-https://asciinema.org/a/1qvDGUqlTmDqNu8gawgTNlypE
+
 
 To win, you need to find the missing member of the arithmetic progression three times in a row.
 
@@ -102,7 +101,7 @@ To run the "prime" mini game, use the following command:
 brain-prime
 
 askinema games
-https://asciinema.org/a/AsN2zoK7rabmWOnzW2XaueJDU
+
 
 To win you need to determine whether the number is prime or not three times in a row.
 
