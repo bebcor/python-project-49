@@ -1,9 +1,11 @@
-#! /usr/bin/env python3
-from brain_games.prime import prime_games
+#!/usr/bin/env python3
+from brain_games.games.prime import generate_question
+from brain_games.engine import play_game
+from brain_games.consts import PRIME_RULE
 
 
 def main():
-    prime_games()
+    play_game(PRIME_RULE, generate_question)
 
 
 if __name__ == "__main__":
