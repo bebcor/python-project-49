@@ -20,7 +20,7 @@ To install the package, use the following command:
 pip install brain-games
 ```
 
-The Parity Check game
+**The Parity Check game**
 
 To start the game, use the following command:
 
@@ -34,7 +34,7 @@ brain-even
 
 
 
-The Calculator Game
+**The Calculator Game**
 
 To start the game, use the following command:
 
@@ -47,7 +47,7 @@ brain-calc
 
 
 
-The Greatest Common Divisor (GCD) game
+**The Greatest Common Divisor (GCD) game**
 
 To start the game, use the following command:
 
@@ -61,7 +61,7 @@ brain-gcd
 
 
 
-The Lost Element of the Arithmetic Progression game
+**The Lost Element of the Arithmetic Progression game**
 
 To start the game, use the following command:
 
@@ -74,7 +74,7 @@ brain-progression
 ---
 
 
-The game Is a prime number?
+**The game Is a prime number?**
 
 To start the game, use the following command:
 
