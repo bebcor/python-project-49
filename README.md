@@ -86,3 +86,5 @@ brain-prime
   [![asciicast](https://asciinema.org/a/AsN2zoK7rabmWOnzW2XaueJDU.svg)](https://asciinema.org/a/AsN2zoK7rabmWOnzW2XaueJDU)
 ---
 
+### ❤️ Acknowledgements
+Thanks for stopping by, buddy! If you find this tool helpful, don't forget to give it a ⭐ on GitHub!
