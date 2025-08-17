@@ -26,9 +26,9 @@ To start the game, use the following command:
 ``bash
 brain-even
 ```
-
-# https://asciinema.org/a/tcRnayXYCPZjpj9RiX6P2yN8G
-
+---
+  https://asciinema.org/a/tcRnayXYCPZjpj9RiX6P2yN8G
+---
 
 
 
@@ -39,8 +39,9 @@ To start the game, use the following command:
 ``bash
 brain-calc
 ```
-#https://asciinema.org/a/qp2t6gaU6w6JpE97Q8KcAn66K
-
+---
+  https://asciinema.org/a/qp2t6gaU6w6JpE97Q8KcAn66K
+---
 
 
 
@@ -51,8 +52,9 @@ To start the game, use the following command:
 brain-gcd
 ```
 
-#https://asciinema.org/a/b8shLwmi0F9zmIayXM2Hpnw31
-
+---
+  https://asciinema.org/a/b8shLwmi0F9zmIayXM2Hpnw31
+---
 
 
 
@@ -64,8 +66,9 @@ To start the game, use the following command:
 brain-progression
 ```
 
-#https://asciinema.org/a/1qvDGUqlTmDqNu8gawgTNlypE
-
+---
+  https://asciinema.org/a/1qvDGUqlTmDqNu8gawgTNlypE
+---
 
 
 5. Игра 'Простое ли число?'
@@ -74,6 +77,7 @@ To start the game, use the following command:
 #brain-prime
 ```
 
-# https://asciinema.org/a/AsN2zoK7rabmWOnzW2XaueJDU
-
+---
+  https://asciinema.org/a/AsN2zoK7rabmWOnzW2XaueJDU
+---
 
