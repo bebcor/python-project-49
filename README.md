@@ -27,7 +27,7 @@ To start the game, use the following command:
 brain-even
 ```
 ---
-  https://asciinema.org/a/tcRnayXYCPZjpj9RiX6P2yN8G
+  [![asciicast](https://asciinema.org/a/tcRnayXYCPZjpj9RiX6P2yN8G.svg)](https://asciinema.org/a/tcRnayXYCPZjpj9RiX6P2yN8G)
 ---
 
 
@@ -40,7 +40,7 @@ To start the game, use the following command:
 brain-calc
 ```
 ---
-  https://asciinema.org/a/qp2t6gaU6w6JpE97Q8KcAn66K
+  [![asciicast](https://asciinema.org/a/qp2t6gaU6w6JpE97Q8KcAn66K.svg)](https://asciinema.org/a/qp2t6gaU6w6JpE97Q8KcAn66K)
 ---
 
 
@@ -53,7 +53,7 @@ brain-gcd
 ```
 
 ---
-  https://asciinema.org/a/b8shLwmi0F9zmIayXM2Hpnw31
+  [![asciicast](https://asciinema.org/a/b8shLwmi0F9zmIayXM2Hpnw31.svg)](https://asciinema.org/a/b8shLwmi0F9zmIayXM2Hpnw31)
 ---
 
 
@@ -67,7 +67,7 @@ brain-progression
 ```
 
 ---
-  https://asciinema.org/a/1qvDGUqlTmDqNu8gawgTNlypE
+  [![asciicast](https://asciinema.org/a/1qvDGUqlTmDqNu8gawgTNlypE.svg)](https://asciinema.org/a/1qvDGUqlTmDqNu8gawgTNlypE)
 ---
 
 
@@ -78,6 +78,6 @@ To start the game, use the following command:
 ```
 
 ---
-  https://asciinema.org/a/AsN2zoK7rabmWOnzW2XaueJDU
+  [![asciicast](https://asciinema.org/a/AsN2zoK7rabmWOnzW2XaueJDU.svg)](https://asciinema.org/a/AsN2zoK7rabmWOnzW2XaueJDU)
 ---
 
