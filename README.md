@@ -23,7 +23,7 @@ pip install brain-games
 1. The Parity Check game
 
 To start the game, use the following command:
-``bash
+```bash
 brain-even
 ```
 ---
@@ -36,7 +36,7 @@ brain-even
 2. Игра 'Калькулятор'
 
 To start the game, use the following command:
-``bash
+```bash
 brain-calc
 ```
 ---
@@ -48,7 +48,7 @@ brain-calc
 3. Игра 'Наибольший общий делитель (GCD)'
 
 To start the game, use the following command:
-``bash
+```bash
 brain-gcd
 ```
 
@@ -62,7 +62,7 @@ brain-gcd
 
 
 To start the game, use the following command:
-``bash
+```bash
 brain-progression
 ```
 
@@ -73,7 +73,7 @@ brain-progression
 
 5. Игра 'Простое ли число?'
 To start the game, use the following command:
-``bash
+```bash
 #brain-prime
 ```
 
